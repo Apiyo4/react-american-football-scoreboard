@@ -4,12 +4,9 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-function App(){
-    // return 'Iam annet'
-    const [lionValue, setLionValue] = useState();
-    const [tigerValue, setTigerValue] =  useState();
 
-}
+   
+
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
